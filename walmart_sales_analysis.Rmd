@@ -1,6 +1,6 @@
 ---
 title: "IE 5374 Project"
-author: "Ritwik Achanti | Mahitha Guduri | Siddhartha Putti"
+author: "Siddhartha Putti"
 subtitle: 'Walmart Sales Analysis'
 output: pdf_document
 always_allow_html: true
@@ -536,7 +536,6 @@ We find:
   - The HOUSEHOLD price distributions are quite similar, but "HOUSEHOLD_2" peaks at clearly higher prices than "HOUSEHOLD_1".
 
 
-### Note: Every member of our team contributed equally on this analysis. 
 
 ### References: StackOverFlow, R Documentation some other interactive plots on kaggle. 
 
